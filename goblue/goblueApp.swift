@@ -12,6 +12,7 @@ struct goblueApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                
         }
     }
 }
